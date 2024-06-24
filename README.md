@@ -1,4 +1,3 @@
-```markdown
 # TypeScript Project Setup
 
 This project is a basic setup for developing a Node.js application using TypeScript, ts-node, and nodemon for automatic restarts during development.
